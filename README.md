@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saurabh Kumar
 - 👀 I’m interested in a lot of stuff :)
-- 🌱 I’m currently learning Full stack development
+- 🌱 I’m a Full stack development
 - 💞️ I’m looking to collaborate on video games :)
 - 📫 How to reach me ...(coming soon)
 
